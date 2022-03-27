@@ -1,0 +1,16 @@
+D:\workspace\solid\bin\Debug\net5.0\solid.exe
+D:\workspace\solid\bin\Debug\net5.0\solid.deps.json
+D:\workspace\solid\bin\Debug\net5.0\solid.runtimeconfig.json
+D:\workspace\solid\bin\Debug\net5.0\solid.runtimeconfig.dev.json
+D:\workspace\solid\bin\Debug\net5.0\solid.dll
+D:\workspace\solid\bin\Debug\net5.0\ref\solid.dll
+D:\workspace\solid\bin\Debug\net5.0\solid.pdb
+D:\workspace\solid\obj\Debug\net5.0\solid.csproj.AssemblyReference.cache
+D:\workspace\solid\obj\Debug\net5.0\solid.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\solid\obj\Debug\net5.0\solid.AssemblyInfoInputs.cache
+D:\workspace\solid\obj\Debug\net5.0\solid.AssemblyInfo.cs
+D:\workspace\solid\obj\Debug\net5.0\solid.csproj.CoreCompileInputs.cache
+D:\workspace\solid\obj\Debug\net5.0\solid.dll
+D:\workspace\solid\obj\Debug\net5.0\ref\solid.dll
+D:\workspace\solid\obj\Debug\net5.0\solid.pdb
+D:\workspace\solid\obj\Debug\net5.0\solid.genruntimeconfig.cache
